@@ -17,4 +17,4 @@ node_modules/
 doc/**/*.txt
 
 # игнорировать файл INFO.md
-INFO.md
+/INFO.md
